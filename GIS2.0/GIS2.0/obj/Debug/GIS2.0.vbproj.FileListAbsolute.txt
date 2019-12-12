@@ -1,0 +1,12 @@
+F:\Visual Studio 2017\mycode\GIS2.0\GIS2.0\bin\Debug\GIS2.0.exe.config
+F:\Visual Studio 2017\mycode\GIS2.0\GIS2.0\bin\Debug\GIS2.0.exe
+F:\Visual Studio 2017\mycode\GIS2.0\GIS2.0\bin\Debug\GIS2.0.pdb
+F:\Visual Studio 2017\mycode\GIS2.0\GIS2.0\bin\Debug\GIS2.0.xml
+F:\Visual Studio 2017\mycode\GIS2.0\GIS2.0\obj\Debug\GIS2.0.vbprojAssemblyReference.cache
+F:\Visual Studio 2017\mycode\GIS2.0\GIS2.0\obj\Debug\GIS2._0.Form1.resources
+F:\Visual Studio 2017\mycode\GIS2.0\GIS2.0\obj\Debug\GIS2._0.Resources.resources
+F:\Visual Studio 2017\mycode\GIS2.0\GIS2.0\obj\Debug\GIS2.0.vbproj.GenerateResource.cache
+F:\Visual Studio 2017\mycode\GIS2.0\GIS2.0\obj\Debug\GIS2.0.vbproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\mycode\GIS2.0\GIS2.0\obj\Debug\GIS2.0.exe
+F:\Visual Studio 2017\mycode\GIS2.0\GIS2.0\obj\Debug\GIS2.0.xml
+F:\Visual Studio 2017\mycode\GIS2.0\GIS2.0\obj\Debug\GIS2.0.pdb
